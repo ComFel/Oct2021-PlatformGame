@@ -1,7 +1,7 @@
 # Jam-Oct2021MadridCrea3
 #
-# Copyright © 2021+
-# Autors
+# Autors & Copyright © 2021+
+# 
 #     Marcelo Lopez de Lerma - Marcelolopezdelerma@gmail.com
 #     Felipe Vallejo Molina - felipevm07@gmail.com
 #
