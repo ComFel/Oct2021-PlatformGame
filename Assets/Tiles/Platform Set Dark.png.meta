@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 9f7a1b2fa504a3847b497dad12ec8d97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5973613881653265166
+    second: Platform Set Dark_0
+  - first:
+      213: 4978695557821265131
+    second: Platform Set Dark_1
+  - first:
+      213: 2801561960293789597
+    second: Platform Set Dark_2
+  - first:
+      213: -2996194734970308669
+    second: Platform Set Dark_3
+  - first:
+      213: 6516018938111532856
+    second: Platform Set Dark_4
+  - first:
+      213: 6034789590232451583
+    second: Platform Set Dark_5
+  - first:
+      213: 864651686308087724
+    second: Platform Set Dark_6
+  - first:
+      213: -4358203446734560523
+    second: Platform Set Dark_7
+  - first:
+      213: -2095525677067391808
+    second: Platform Set Dark_8
+  - first:
+      213: 3636600091732518766
+    second: Platform Set Dark_9
+  - first:
+      213: -8990933209077743171
+    second: Platform Set Dark_10
+  - first:
+      213: 7450393823763017294
+    second: Platform Set Dark_11
+  - first:
+      213: 6223580151101528418
+    second: Platform Set Dark_12
+  - first:
+      213: -8470308461743066004
+    second: Platform Set Dark_13
+  - first:
+      213: -6292389073353198926
+    second: Platform Set Dark_14
+  - first:
+      213: 8053288085112320853
+    second: Platform Set Dark_15
+  - first:
+      213: -7671669262204154579
+    second: Platform Set Dark_16
+  - first:
+      213: -4078777846692260514
+    second: Platform Set Dark_17
+  - first:
+      213: 7465273225665962350
+    second: Platform Set Dark_18
+  - first:
+      213: 3743747900411292909
+    second: Platform Set Dark_19
+  - first:
+      213: 4499810851389332052
+    second: Platform Set Dark_20
+  - first:
+      213: 6003881423757006845
+    second: Platform Set Dark_21
+  - first:
+      213: 5361580671469700836
+    second: Platform Set Dark_22
+  - first:
+      213: -122387962359464556
+    second: Platform Set Dark_23
+  - first:
+      213: -7853781471852618201
+    second: Platform Set Dark_24
+  - first:
+      213: -903029165091615249
+    second: Platform Set Dark_25
+  - first:
+      213: -9112590519439663904
+    second: Platform Set Dark_26
+  - first:
+      213: 3821218762785943806
+    second: Platform Set Dark_27
+  - first:
+      213: -7347295035030469737
+    second: Platform Set Dark_28
+  - first:
+      213: -3993310831773660336
+    second: Platform Set Dark_29
+  - first:
+      213: 2488199316041851729
+    second: Platform Set Dark_30
+  - first:
+      213: -2586379115000057876
+    second: Platform Set Dark_31
+  - first:
+      213: -60792168171319756
+    second: Platform Set Dark_32
+  - first:
+      213: -7072250449387226782
+    second: Platform Set Dark_33
+  - first:
+      213: 647464105846237367
+    second: Platform Set Dark_34
+  - first:
+      213: 5381091488432008888
+    second: Platform Set Dark_35
+  - first:
+      213: 4195066152395711915
+    second: Platform Set Dark_36
+  - first:
+      213: -8345497264587908781
+    second: Platform Set Dark_37
+  - first:
+      213: 2200255289392739888
+    second: Platform Set Dark_38
+  - first:
+      213: 8633994795549899695
+    second: Platform Set Dark_39
+  - first:
+      213: -530384449634877408
+    second: Platform Set Dark_40
+  - first:
+      213: 3571217537519164307
+    second: Platform Set Dark_41
+  - first:
+      213: -8145295496865565736
+    second: Platform Set Dark_42
+  - first:
+      213: -7292937363127996444
+    second: Platform Set Dark_43
+  - first:
+      213: -6619065485365391861
+    second: Platform Set Dark_44
+  - first:
+      213: -397320565889306182
+    second: Platform Set Dark_45
+  - first:
+      213: 9122969444802918839
+    second: Platform Set Dark_46
+  - first:
+      213: 5202069028403402271
+    second: Platform Set Dark_47
+  - first:
+      213: 5061074409252046939
+    second: Platform Set Dark_48
+  - first:
+      213: -7037350792693023850
+    second: Platform Set Dark_49
+  - first:
+      213: 957793407813753013
+    second: Platform Set Dark_50
+  - first:
+      213: 5715402730457602307
+    second: Platform Set Dark_51
+  - first:
+      213: 1998577230978370798
+    second: Platform Set Dark_52
+  - first:
+      213: 5712537520942043801
+    second: Platform Set Dark_53
+  - first:
+      213: 1865662205094654893
+    second: Platform Set Dark_54
+  - first:
+      213: -5441562891002292803
+    second: Platform Set Dark_55
+  - first:
+      213: 3974995936908335549
+    second: Platform Set Dark_56
+  - first:
+      213: 7807548713047451010
+    second: Platform Set Dark_57
+  - first:
+      213: -2544464571324096460
+    second: Platform Set Dark_58
+  - first:
+      213: 5963638893197403617
+    second: Platform Set Dark_59
+  - first:
+      213: -4640724593586476607
+    second: Platform Set Dark_60
+  - first:
+      213: 3839517768762618699
+    second: Platform Set Dark_61
+  - first:
+      213: -2286507487888215401
+    second: Platform Set Dark_62
+  - first:
+      213: 3466425674572360937
+    second: Platform Set Dark_63
+  - first:
+      213: -790461828533905272
+    second: Platform Set Dark_64
+  - first:
+      213: -2125924328489448448
+    second: Platform Set Dark_65
+  - first:
+      213: 307222206096426357
+    second: Platform Set Dark_66
+  - first:
+      213: 1660553504555587105
+    second: Platform Set Dark_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platform Set Dark_0
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf6bef2d5791da0800000000000000
+      internalID: -5973613881653265166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_1
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be470c84b31e71540800000000000000
+      internalID: 4978695557821265131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fee8372c521e620800000000000000
+      internalID: 2801561960293789597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_3
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f23853c06b66d0800000000000000
+      internalID: -2996194734970308669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 450
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f1bdb63bc8d6a50800000000000000
+      internalID: 6516018938111532856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_5
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 450
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9c70c9821efb350800000000000000
+      internalID: 6034789590232451583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 386
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca706d8a02cdffb00800000000000000
+      internalID: 864651686308087724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e0825e0d8483c0800000000000000
+      internalID: -4358203446734560523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 418
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc20b0df723be2e0800000000000000
+      internalID: -2095525677067391808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67aed1148cc77230800000000000000
+      internalID: 3636600091732518766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 386
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db188a1e1e9c93380800000000000000
+      internalID: -8990933209077743171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea82675bd156760800000000000000
+      internalID: 7450393823763017294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 434
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26914996c299e5650800000000000000
+      internalID: 6223580151101528418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_13
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 434
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b1d7e45b637a80800000000000000
+      internalID: -8470308461743066004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2bb3ee971fca8a0800000000000000
+      internalID: -6292389073353198926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 322
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553710368d603cf60800000000000000
+      internalID: 8053288085112320853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_16
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 322
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc908c371c88590800000000000000
+      internalID: -7671669262204154579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_17
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 386
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55dc22a8254567c0800000000000000
+      internalID: -4078777846692260514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_18
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 402
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ed0f227af99760800000000000000
+      internalID: 7465273225665962350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_19
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 402
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec21a451e674f330800000000000000
+      internalID: 3743747900411292909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_20
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 402
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a5289d02a827e30800000000000000
+      internalID: 4499810851389332052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_21
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 386
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df75a905852125350800000000000000
+      internalID: 6003881423757006845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 370
+        width: 176
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e64d8db639286a40800000000000000
+      internalID: 5361580671469700836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 258
+        width: 16
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db7c2fbc03d4ef0800000000000000
+      internalID: -122387962359464556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_24
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 386
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e1eaacc53c10390800000000000000
+      internalID: -7853781471852618201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_25
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed85e042cbc773f0800000000000000
+      internalID: -903029165091615249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_26
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 226
+        width: 32
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd4310433998180800000000000000
+      internalID: -9112590519439663904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_27
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f9e41832b70530800000000000000
+      internalID: 3821218762785943806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_28
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 386
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938401e71a290a90800000000000000
+      internalID: -7347295035030469737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 258
+        width: 16
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b496ab4f8e498c0800000000000000
+      internalID: -3993310831773660336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 338
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1536b0b481cd78220800000000000000
+      internalID: 2488199316041851729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 354
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefaeebe5e55b1cd0800000000000000
+      internalID: -2586379115000057876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_32
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 354
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ec50b58d5082ff0800000000000000
+      internalID: -60792168171319756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 338
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697da9cfa15add90800000000000000
+      internalID: -7072250449387226782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_34
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 322
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e7c18c214cf800800000000000000
+      internalID: 647464105846237367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_35
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be2edfc23a7daa40800000000000000
+      internalID: 5381091488432008888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_36
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 322
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5afce607ed73a30800000000000000
+      internalID: 4195066152395711915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_37
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 322
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595e364476de2c80800000000000000
+      internalID: -8345497264587908781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036bd6b3780e88e10800000000000000
+      internalID: 2200255289392739888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_39
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 258
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabb25d858c12d770800000000000000
+      internalID: 8633994795549899695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_40
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 258
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0204f153722b3a8f0800000000000000
+      internalID: -530384449634877408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 194
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9973ed638f8130800000000000000
+      internalID: 3571217537519164307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 274
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d33db6b6e816fe80800000000000000
+      internalID: -8145295496865565736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 290
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efe49d9b184aca90800000000000000
+      internalID: -7292937363127996444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e4fb7a20b5424a0800000000000000
+      internalID: -6619065485365391861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_45
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 274
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1f538ec0f6c7af0800000000000000
+      internalID: -397320565889306182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 194
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9783edf5c4b9e70800000000000000
+      internalID: 9122969444802918839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_47
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 290
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16db073836713840800000000000000
+      internalID: 5202069028403402271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_48
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 226
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58c9494c5c8c3640800000000000000
+      internalID: 5061074409252046939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_49
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 290
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf7b15dbe465e90800000000000000
+      internalID: -7037350792693023850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 226
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b813f0a704ca4d00800000000000000
+      internalID: 957793407813753013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_51
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 226
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30919397080315f40800000000000000
+      internalID: 5715402730457602307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_52
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 258
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec46a4176f5cbb10800000000000000
+      internalID: 1998577230978370798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_53
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 226
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99257d5eb92074f40800000000000000
+      internalID: 5712537520942043801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_54
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3f98d04e924e910800000000000000
+      internalID: 1865662205094654893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_55
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 226
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db55cda916fab74b0800000000000000
+      internalID: -5441562891002292803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 146
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9da038eb50a2730800000000000000
+      internalID: 3974995936908335549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 194
+        width: 176
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28560c7303cf95c60800000000000000
+      internalID: 7807548713047451010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43029aa14fe30bcd0800000000000000
+      internalID: -2544464571324096460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_59
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e52cb50af913c250800000000000000
+      internalID: 5963638893197403617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 146
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ebdad195d89fb0800000000000000
+      internalID: -4640724593586476607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 146
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4375eb6115b84530800000000000000
+      internalID: 3839517768762618699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f620ed81b440e0800000000000000
+      internalID: -2286507487888215401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 146
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eced2df8c73b1030800000000000000
+      internalID: 3466425674572360937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 146
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8881bbda727b705f0800000000000000
+      internalID: -790461828533905272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_65
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 146
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c860d36133f72e0800000000000000
+      internalID: -2125924328489448448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_66
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754d7df7f8734400800000000000000
+      internalID: 307222206096426357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Dark_67
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 146
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d0994d987b0710800000000000000
+      internalID: 1660553504555587105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
