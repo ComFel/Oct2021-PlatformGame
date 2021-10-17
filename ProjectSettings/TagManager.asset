@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Bg 2 (-2)
+    uniqueID: 224431485
+    locked: 0
+  - name: Bg 1 (-1)
+    uniqueID: 3722729371
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor (1)
+    uniqueID: 3625196693
+    locked: 0
+  - name: Front Player (2)
+    uniqueID: 3232455263
     locked: 0

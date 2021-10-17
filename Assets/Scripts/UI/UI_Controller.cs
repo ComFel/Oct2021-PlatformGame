@@ -26,7 +26,7 @@ public class UI_Controller : MonoBehaviour
     {
         if(!win)
         {
-            myhero.M_Stars++;
+            //myhero.M_Stars++;
             StarCounts.text = myhero.M_Stars.ToString();
             
             if (myhero.M_Stars == StarsWin)

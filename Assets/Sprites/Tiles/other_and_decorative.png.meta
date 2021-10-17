@@ -1,223 +1,208 @@
 fileFormatVersion: 2
-guid: 87d41a46b98e81e4781cd8bcb777544c
+guid: fc125cd2b902af1428138adb4c7f6ec4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1702383846340769618
-    second: Platform Set Yellow_0
+      213: 5088143143972142856
+    second: other_and_decorative_0
   - first:
-      213: -82390767508701061
-    second: Platform Set Yellow_1
+      213: -6779305312654219249
+    second: other_and_decorative_1
   - first:
-      213: 9019406587634540935
-    second: Platform Set Yellow_2
+      213: 1380613254580365610
+    second: other_and_decorative_2
   - first:
-      213: -3819845243333827660
-    second: Platform Set Yellow_3
+      213: -7111447661754518679
+    second: other_and_decorative_3
   - first:
-      213: 3140148938137899151
-    second: Platform Set Yellow_4
+      213: 8447678226659493314
+    second: other_and_decorative_4
   - first:
-      213: 2804697285108540791
-    second: Platform Set Yellow_5
+      213: -8936782559450345118
+    second: other_and_decorative_5
   - first:
-      213: 6614088249390811972
-    second: Platform Set Yellow_6
+      213: -868003549262875510
+    second: other_and_decorative_6
   - first:
-      213: -1981393281169383249
-    second: Platform Set Yellow_7
+      213: 587189824707930256
+    second: other_and_decorative_7
   - first:
-      213: -4277693880014501829
-    second: Platform Set Yellow_8
+      213: -5413490351454184039
+    second: other_and_decorative_8
   - first:
-      213: -4426048620910495795
-    second: Platform Set Yellow_9
+      213: 7719018509552844760
+    second: other_and_decorative_9
   - first:
-      213: 269683037576686688
-    second: Platform Set Yellow_10
+      213: -8100087529895932596
+    second: other_and_decorative_10
   - first:
-      213: -7146641894972634538
-    second: Platform Set Yellow_11
+      213: 1928456969267231638
+    second: other_and_decorative_11
   - first:
-      213: -4075471061613615996
-    second: Platform Set Yellow_12
+      213: 3200918122324867773
+    second: other_and_decorative_12
   - first:
-      213: -9050791086579451945
-    second: Platform Set Yellow_13
+      213: -7074974449704402166
+    second: other_and_decorative_13
   - first:
-      213: 4406909444853889677
-    second: Platform Set Yellow_14
+      213: -8040713013958720954
+    second: other_and_decorative_14
   - first:
-      213: -1062132675709419053
-    second: Platform Set Yellow_15
+      213: -6206716673786284016
+    second: other_and_decorative_15
   - first:
-      213: -3947683835131026358
-    second: Platform Set Yellow_16
+      213: 667428839551065305
+    second: other_and_decorative_16
   - first:
-      213: -349337668510742681
-    second: Platform Set Yellow_17
+      213: -1860902838774615596
+    second: other_and_decorative_17
   - first:
-      213: 8282749678000274428
-    second: Platform Set Yellow_18
+      213: 2066292361582265874
+    second: other_and_decorative_18
   - first:
-      213: 2307123096875800533
-    second: Platform Set Yellow_19
+      213: -3743502020074793959
+    second: other_and_decorative_19
   - first:
-      213: -6614194710191236493
-    second: Platform Set Yellow_20
+      213: 4544697795064029117
+    second: other_and_decorative_20
   - first:
-      213: -375014599232518891
-    second: Platform Set Yellow_21
+      213: 4554768814897807766
+    second: other_and_decorative_21
   - first:
-      213: -3486751498187378186
-    second: Platform Set Yellow_22
+      213: 3875673474758666828
+    second: other_and_decorative_22
   - first:
-      213: -4419506958364520832
-    second: Platform Set Yellow_23
+      213: 8455204620102242176
+    second: other_and_decorative_23
   - first:
-      213: -560904134959081307
-    second: Platform Set Yellow_24
+      213: 1530170335034810257
+    second: other_and_decorative_24
   - first:
-      213: 4508502939329892322
-    second: Platform Set Yellow_25
+      213: -3637946032990737294
+    second: other_and_decorative_25
   - first:
-      213: -1764572393418397908
-    second: Platform Set Yellow_26
+      213: 4088826322477738127
+    second: other_and_decorative_26
   - first:
-      213: 2556029445454217390
-    second: Platform Set Yellow_27
+      213: 8109122078272395567
+    second: other_and_decorative_27
   - first:
-      213: 581401110300504296
-    second: Platform Set Yellow_28
+      213: 346109111411311735
+    second: other_and_decorative_28
   - first:
-      213: 5590361191743412055
-    second: Platform Set Yellow_29
+      213: 2677328196604089925
+    second: other_and_decorative_29
   - first:
-      213: 4586011054127451696
-    second: Platform Set Yellow_30
+      213: 6743956411397924985
+    second: other_and_decorative_30
   - first:
-      213: 7055302293071727428
-    second: Platform Set Yellow_31
+      213: 6315440222415660071
+    second: other_and_decorative_31
   - first:
-      213: 4772061494672554743
-    second: Platform Set Yellow_32
+      213: -1196420758302881364
+    second: other_and_decorative_32
   - first:
-      213: 1477871540550818893
-    second: Platform Set Yellow_33
+      213: -505768266014725066
+    second: other_and_decorative_33
   - first:
-      213: 7689168970909962006
-    second: Platform Set Yellow_34
+      213: -7281361227217857721
+    second: other_and_decorative_34
   - first:
-      213: -6048241140412487448
-    second: Platform Set Yellow_35
+      213: -1714404701480643172
+    second: other_and_decorative_35
   - first:
-      213: -4474963283856432784
-    second: Platform Set Yellow_36
+      213: -2849824968577948128
+    second: other_and_decorative_36
   - first:
-      213: 7599921335734512081
-    second: Platform Set Yellow_37
+      213: -6265242923768973579
+    second: other_and_decorative_37
   - first:
-      213: 1969662007207941415
-    second: Platform Set Yellow_38
+      213: -7772291832998693849
+    second: other_and_decorative_38
   - first:
-      213: 8419402714606918113
-    second: Platform Set Yellow_39
+      213: -3712410685546022556
+    second: other_and_decorative_39
   - first:
-      213: 4693546632952410552
-    second: Platform Set Yellow_40
+      213: -8375690810570853169
+    second: other_and_decorative_40
   - first:
-      213: 5500038595722794044
-    second: Platform Set Yellow_41
+      213: -7817815063465726114
+    second: other_and_decorative_41
   - first:
-      213: 8087015192003515064
-    second: Platform Set Yellow_42
+      213: 5190521579253647563
+    second: other_and_decorative_42
   - first:
-      213: 553321770853131288
-    second: Platform Set Yellow_43
+      213: -4790277335145192025
+    second: other_and_decorative_43
   - first:
-      213: -840172250357049046
-    second: Platform Set Yellow_44
+      213: -396949702025864828
+    second: other_and_decorative_44
   - first:
-      213: -2227461522352474493
-    second: Platform Set Yellow_45
+      213: 9066535912281650824
+    second: other_and_decorative_45
   - first:
-      213: -1133947909101642962
-    second: Platform Set Yellow_46
+      213: 9199726527674694963
+    second: other_and_decorative_46
   - first:
-      213: -6919434603742544073
-    second: Platform Set Yellow_47
+      213: -8735718466516323414
+    second: other_and_decorative_47
   - first:
-      213: 7181639439152206081
-    second: Platform Set Yellow_48
+      213: -5052679162967578792
+    second: other_and_decorative_48
   - first:
-      213: -1696727384589935240
-    second: Platform Set Yellow_49
+      213: 6046596990518850578
+    second: other_and_decorative_49
   - first:
-      213: 5046782773219061198
-    second: Platform Set Yellow_50
+      213: 7396162521729544258
+    second: other_and_decorative_50
   - first:
-      213: -5019940882782755446
-    second: Platform Set Yellow_51
+      213: -9013646105302776775
+    second: other_and_decorative_51
   - first:
-      213: -6003570901735071128
-    second: Platform Set Yellow_52
+      213: -485377171335376975
+    second: other_and_decorative_52
   - first:
-      213: -5199577844548439665
-    second: Platform Set Yellow_53
+      213: -477697328798292637
+    second: other_and_decorative_53
   - first:
-      213: 542660170725346408
-    second: Platform Set Yellow_54
+      213: -2394956738214315667
+    second: other_and_decorative_54
   - first:
-      213: -6211874532033888974
-    second: Platform Set Yellow_55
+      213: -995321319024425968
+    second: other_and_decorative_55
   - first:
-      213: 9056847062938638189
-    second: Platform Set Yellow_56
+      213: -8937772094470623129
+    second: other_and_decorative_56
   - first:
-      213: 7829459984329349183
-    second: Platform Set Yellow_57
+      213: 7720329558033536052
+    second: other_and_decorative_57
   - first:
-      213: -162423276382725707
-    second: Platform Set Yellow_58
+      213: 3727973842824529067
+    second: other_and_decorative_58
   - first:
-      213: 8597093031029857791
-    second: Platform Set Yellow_59
+      213: 2735315543661584064
+    second: other_and_decorative_59
   - first:
-      213: -2907569643329982227
-    second: Platform Set Yellow_60
+      213: 7750735233045785369
+    second: other_and_decorative_60
   - first:
-      213: -7344600862567819201
-    second: Platform Set Yellow_61
+      213: -2265637405789963499
+    second: other_and_decorative_61
   - first:
-      213: -7782815307272470680
-    second: Platform Set Yellow_62
+      213: -2360792299362127941
+    second: other_and_decorative_62
   - first:
-      213: -9027680747361759485
-    second: Platform Set Yellow_63
+      213: -3418052541626600516
+    second: other_and_decorative_63
   - first:
-      213: -8206688311240521980
-    second: Platform Set Yellow_64
+      213: -5957701040849081428
+    second: other_and_decorative_64
   - first:
-      213: 3647485515299513905
-    second: Platform Set Yellow_65
+      213: -7296151116332814185
+    second: other_and_decorative_65
   - first:
-      213: -5417397823100882180
-    second: Platform Set Yellow_66
-  - first:
-      213: 6417024188670189977
-    second: Platform Set Yellow_67
-  - first:
-      213: 3676647819801329943
-    second: Platform Set Yellow_68
-  - first:
-      213: 4939164867794909671
-    second: Platform Set Yellow_69
-  - first:
-      213: -9085338587293321993
-    second: Platform Set Yellow_70
-  - first:
-      213: 6953879793105783515
-    second: Platform Set Yellow_71
+      213: -7357387930620721014
+    second: other_and_decorative_66
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -273,7 +258,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -327,13 +312,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Platform Set Yellow_0
+      name: other_and_decorative_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 338
-        width: 96
-        height: 64
+        x: 16
+        y: 598
+        width: 31
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,186 +326,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2573180b61510a710800000000000000
-      internalID: 1702383846340769618
+      spriteID: 80f7cc63b37bc9640800000000000000
+      internalID: 5088143143972142856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_1
+      name: other_and_decorative_1
       rect:
         serializedVersion: 2
-        x: 144
-        y: 338
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b704fd1980a4bdef0800000000000000
-      internalID: -82390767508701061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_2
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 370
-        width: 160
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78166cc218e5b2d70800000000000000
-      internalID: 9019406587634540935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_3
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 338
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b32f165dfe2dfac0800000000000000
-      internalID: -3819845243333827660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_4
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 338
-        width: 96
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f80978f62dc049b20800000000000000
-      internalID: 3140148938137899151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_5
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 370
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 775a56522594ce620800000000000000
-      internalID: 2804697285108540791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_6
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 370
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44b460a4836f9cb50800000000000000
-      internalID: 6614088249390811972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_7
-      rect:
-        serializedVersion: 2
-        x: 848
-        y: 370
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa0ad830f4da084e0800000000000000
-      internalID: -1981393281169383249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_8
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 370
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b388fdf841492a4c0800000000000000
-      internalID: -4277693880014501829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_9
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 386
+        x: 64
+        y: 608
         width: 16
         height: 16
       alignment: 0
@@ -530,20 +347,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc7b500ca348392c0800000000000000
-      internalID: -4426048620910495795
+      spriteID: f08a3578cb11be1a0800000000000000
+      internalID: -6779305312654219249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_10
+      name: other_and_decorative_2
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 386
-        width: 112
-        height: 16
+        x: 96
+        y: 598
+        width: 31
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06ce4b83b4b1eb300800000000000000
-      internalID: 269683037576686688
+      spriteID: a296573b07ce82310800000000000000
+      internalID: 1380613254580365610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_11
+      name: other_and_decorative_3
       rect:
         serializedVersion: 2
-        x: 1392
-        y: 370
-        width: 80
-        height: 48
+        x: 145
+        y: 598
+        width: 31
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,20 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65a4b31af0702dc90800000000000000
-      internalID: -7146641894972634538
+      spriteID: 963f65a97001f4d90800000000000000
+      internalID: -7111447661754518679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_12
+      name: other_and_decorative_4
       rect:
         serializedVersion: 2
-        x: 1856
-        y: 370
-        width: 64
-        height: 32
+        x: 193
+        y: 581
+        width: 41
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,20 +410,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 484e22889a40177c0800000000000000
-      internalID: -4075471061613615996
+      spriteID: 2c547d4e69e2c3570800000000000000
+      internalID: 8447678226659493314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_13
+      name: other_and_decorative_5
       rect:
         serializedVersion: 2
-        x: 1936
-        y: 370
-        width: 64
-        height: 32
+        x: 257
+        y: 581
+        width: 12
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -614,20 +431,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d7f82cb571256280800000000000000
-      internalID: -9050791086579451945
+      spriteID: 2615e0d7c9b2af380800000000000000
+      internalID: -8936782559450345118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_14
+      name: other_and_decorative_6
       rect:
         serializedVersion: 2
-        x: 672
-        y: 370
+        x: 304
+        y: 564
         width: 16
-        height: 16
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -635,607 +452,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8a74d19acc782d30800000000000000
-      internalID: 4406909444853889677
+      spriteID: a84786eee5b34f3f0800000000000000
+      internalID: -868003549262875510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_15
+      name: other_and_decorative_7
       rect:
         serializedVersion: 2
-        x: 704
-        y: 370
-        width: 32
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d1410875fb8241f0800000000000000
-      internalID: -1062132675709419053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_16
-      rect:
-        serializedVersion: 2
-        x: 944
-        y: 370
-        width: 32
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a44a679b7720739c0800000000000000
-      internalID: -3947683835131026358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_17
-      rect:
-        serializedVersion: 2
-        x: 992
-        y: 370
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76701c9cd37e62bf0800000000000000
-      internalID: -349337668510742681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_18
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 322
-        width: 176
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfbffa0c2fc32f270800000000000000
-      internalID: 8282749678000274428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_19
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 194
-        width: 16
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d79162ab3c840020800000000000000
-      internalID: 2307123096875800533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_20
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 322
-        width: 32
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37a98cf54f8a534a0800000000000000
-      internalID: -6614194710191236493
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_21
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 306
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 515092b753eabcaf0800000000000000
-      internalID: -375014599232518891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_22
-      rect:
-        serializedVersion: 2
-        x: 816
-        y: 162
-        width: 32
-        height: 176
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f1fa7a6cf19c9fc0800000000000000
-      internalID: -3486751498187378186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_23
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 306
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08ec05046d1caa2c0800000000000000
-      internalID: -4419506958364520832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_24
-      rect:
-        serializedVersion: 2
-        x: 944
-        y: 322
-        width: 32
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a857ba39a44738f0800000000000000
-      internalID: -560904134959081307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_25
-      rect:
-        serializedVersion: 2
-        x: 992
-        y: 194
-        width: 16
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ef0097498b619e30800000000000000
-      internalID: 4508502939329892322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_26
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 258
-        width: 48
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c27e5ddd1caf287e0800000000000000
-      internalID: -1764572393418397908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_27
-      rect:
-        serializedVersion: 2
-        x: 1152
-        y: 258
-        width: 144
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea0ccbbfc37d87320800000000000000
-      internalID: 2556029445454217390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_28
-      rect:
-        serializedVersion: 2
-        x: 1312
-        y: 322
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e0ba7bba3d811800800000000000000
-      internalID: 581401110300504296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_29
-      rect:
-        serializedVersion: 2
-        x: 1424
-        y: 322
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 757def782e3f49d40800000000000000
-      internalID: 5590361191743412055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_30
-      rect:
-        serializedVersion: 2
-        x: 1472
-        y: 290
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03e084981c8c4af30800000000000000
-      internalID: 4586011054127451696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_31
-      rect:
-        serializedVersion: 2
-        x: 1552
-        y: 290
-        width: 32
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44b0a811e0879e160800000000000000
-      internalID: 7055302293071727428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_32
-      rect:
-        serializedVersion: 2
-        x: 1600
-        y: 290
-        width: 16
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7faf64c55a4c93240800000000000000
-      internalID: 4772061494672554743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_33
-      rect:
-        serializedVersion: 2
-        x: 1824
-        y: 306
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4cd0360654728410800000000000000
-      internalID: 1477871540550818893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_34
-      rect:
-        serializedVersion: 2
-        x: 1984
-        y: 306
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61f4b09a07a65ba60800000000000000
-      internalID: 7689168970909962006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_35
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 290
-        width: 16
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e86fcd4ab4501ca0800000000000000
-      internalID: -6048241140412487448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_36
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 306
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07162da4a9cb5e1c0800000000000000
-      internalID: -4474963283856432784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_37
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 306
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d92e515038587960800000000000000
-      internalID: 7599921335734512081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_38
-      rect:
-        serializedVersion: 2
-        x: 496
-        y: 290
-        width: 16
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 725563be825a55b10800000000000000
-      internalID: 1969662007207941415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_39
-      rect:
-        serializedVersion: 2
-        x: 1392
-        y: 226
-        width: 16
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e9da19392ab7d470800000000000000
-      internalID: 8419402714606918113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_40
-      rect:
-        serializedVersion: 2
-        x: 1872
-        y: 306
-        width: 96
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b1fbd19bc3d22140800000000000000
-      internalID: 4693546632952410552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_41
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 274
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c34defc56ff045c40800000000000000
-      internalID: 5500038595722794044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_42
-      rect:
-        serializedVersion: 2
-        x: 1312
-        y: 258
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b29e846879da3070800000000000000
-      internalID: 8087015192003515064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_43
-      rect:
-        serializedVersion: 2
-        x: 1424
-        y: 226
-        width: 32
+        x: 339
+        y: 544
+        width: 42
         height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1244,20 +473,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 814e03e083bcda700800000000000000
-      internalID: 553321770853131288
+      spriteID: 098a075d80e162800800000000000000
+      internalID: 587189824707930256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_44
+      name: other_and_decorative_8
       rect:
         serializedVersion: 2
-        x: 144
-        y: 146
+        x: 400
+        y: 580
         width: 32
-        height: 128
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1265,166 +494,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a29d35b2acb1754f0800000000000000
-      internalID: -840172250357049046
+      spriteID: 99d919e053b6fd4b0800000000000000
+      internalID: -5413490351454184039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_45
+      name: other_and_decorative_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 601
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfff84ff667f1b60800000000000000
+      internalID: 7719018509552844760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_10
       rect:
         serializedVersion: 2
         x: 496
-        y: 146
+        y: 543
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d4bf2ce45b69f80800000000000000
+      internalID: -8100087529895932596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
         width: 32
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38674590c877611e0800000000000000
-      internalID: -2227461522352474493
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_46
-      rect:
-        serializedVersion: 2
-        x: 1472
-        y: 258
-        width: 64
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2b133472686340f0800000000000000
-      internalID: -1133947909101642962
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_47
-      rect:
-        serializedVersion: 2
-        x: 1872
-        y: 162
-        width: 144
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73f316d73ea39ff90800000000000000
-      internalID: -6919434603742544073
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_48
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 226
-        width: 48
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1015a9b150f4aa360800000000000000
-      internalID: 7181639439152206081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_49
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 242
-        width: 32
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87dd6d0fe630478e0800000000000000
-      internalID: -1696727384589935240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_50
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 242
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ecd68487136c90640800000000000000
-      internalID: 5046782773219061198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_51
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 226
-        width: 48
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a85e5482d56955ab0800000000000000
-      internalID: -5019940882782755446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_52
-      rect:
-        serializedVersion: 2
-        x: 1584
-        y: 194
-        width: 16
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1433,20 +557,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 862a53ab2180faca0800000000000000
-      internalID: -6003570901735071128
+      spriteID: 69bbcc9656143ca10800000000000000
+      internalID: 1928456969267231638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_53
+      name: other_and_decorative_12
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 226
-        width: 112
-        height: 16
+        x: 66
+        y: 560
+        width: 4
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1454,208 +578,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f81f2b9bf7367d7b0800000000000000
-      internalID: -5199577844548439665
+      spriteID: dbab844b212fb6c20800000000000000
+      internalID: 3200918122324867773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_54
+      name: other_and_decorative_13
       rect:
         serializedVersion: 2
-        x: 1472
-        y: 226
-        width: 80
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86c46d5dc8ae78700800000000000000
-      internalID: 542660170725346408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_55
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 178
-        width: 48
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23df2d8660dfac9a0800000000000000
-      internalID: -6211874532033888974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_56
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 178
-        width: 48
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d675f732b6260bd70800000000000000
-      internalID: 9056847062938638189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_57
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 82
-        width: 144
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f38161d9f54d7ac60800000000000000
-      internalID: 7829459984329349183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_58
-      rect:
-        serializedVersion: 2
-        x: 1424
-        y: 178
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b9d3f304e4febdf0800000000000000
-      internalID: -162423276382725707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_59
-      rect:
-        serializedVersion: 2
-        x: 1472
-        y: 194
-        width: 96
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffd5587ff820f4770800000000000000
-      internalID: 8597093031029857791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_60
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 98
-        width: 32
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de07b9970dc36a7d0800000000000000
-      internalID: -2907569643329982227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_61
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 146
-        width: 176
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f381e99cd6cb21a90800000000000000
-      internalID: -7344600862567819201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_62
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 146
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86f3d8196b2edf390800000000000000
-      internalID: -7782815307272470680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platform Set Yellow_63
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 154
-        width: 32
+        x: 70
+        y: 544
+        width: 8
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1664,20 +599,272 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30f8ed3e03c37b280800000000000000
-      internalID: -9027680747361759485
+      spriteID: a03876a0934a0dd90800000000000000
+      internalID: -7074974449704402166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_64
+      name: other_and_decorative_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 560
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64241268d16a96090800000000000000
+      internalID: -8040713013958720954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 560
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018797dd1105dd9a0800000000000000
+      internalID: -6206716673786284016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 544
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcda4e4efe234900800000000000000
+      internalID: 667428839551065305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 512
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b2554abebc26e0800000000000000
+      internalID: -1860902838774615596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c63684f1fcac10800000000000000
+      internalID: 2066292361582265874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 516
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141c752fb86c0cc0800000000000000
+      internalID: -3743502020074793959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 522
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfda46d092021f30800000000000000
+      internalID: 4544697795064029117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 512
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691c20eda1ac53f30800000000000000
+      internalID: 4554768814897807766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 447
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ae468bd7829c530800000000000000
+      internalID: 3875673474758666828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 505
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f8f6cedcbe65570800000000000000
+      internalID: 8455204620102242176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 484
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f179100d14c3510800000000000000
+      internalID: 1530170335034810257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 448
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cab8f8b5b638dc0800000000000000
+      internalID: -3637946032990737294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_26
       rect:
         serializedVersion: 2
         x: 592
-        y: 98
-        width: 32
-        height: 63
+        y: 468
+        width: 16
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1685,20 +872,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 407882a367cfb1e80800000000000000
-      internalID: -8206688311240521980
+      spriteID: f886d8370ed6eb830800000000000000
+      internalID: 4088826322477738127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_65
+      name: other_and_decorative_27
       rect:
         serializedVersion: 2
-        x: 96
-        y: 98
-        width: 32
-        height: 47
+        x: 241
+        y: 512
+        width: 16
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1706,20 +893,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1366fce30c87e9230800000000000000
-      internalID: 3647485515299513905
+      spriteID: f2914b3f093698070800000000000000
+      internalID: 8109122078272395567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_66
+      name: other_and_decorative_28
       rect:
         serializedVersion: 2
-        x: 144
-        y: 98
-        width: 32
-        height: 32
+        x: 265
+        y: 512
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1727,20 +914,104 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf2f81be16981d4b0800000000000000
-      internalID: -5417397823100882180
+      spriteID: 774823f2760adc400800000000000000
+      internalID: 346109111411311735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_67
+      name: other_and_decorative_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54659b94fc7c72520800000000000000
+      internalID: 2677328196604089925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978671a00a8579d50800000000000000
+      internalID: 6743956411397924985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 469
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ac41fb63f4a750800000000000000
+      internalID: 6315440222415660071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 468
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca90473c8a5756fe0800000000000000
+      internalID: -1196420758302881364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_33
       rect:
         serializedVersion: 2
         x: 192
-        y: 98
-        width: 16
-        height: 32
+        y: 458
+        width: 11
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1748,20 +1019,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 991a6c03089dd0950800000000000000
-      internalID: 6417024188670189977
+      spriteID: 63ce68511762bf8f0800000000000000
+      internalID: -505768266014725066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_68
+      name: other_and_decorative_34
       rect:
         serializedVersion: 2
-        x: 224
-        y: 98
-        width: 224
-        height: 32
+        x: 228
+        y: 456
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1769,20 +1040,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 711097f56b3160330800000000000000
-      internalID: 3676647819801329943
+      spriteID: 743906aca8863fa90800000000000000
+      internalID: -7281361227217857721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_69
+      name: other_and_decorative_35
       rect:
         serializedVersion: 2
-        x: 464
-        y: 98
-        width: 16
-        height: 32
+        x: 192
+        y: 449
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1790,19 +1061,271 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e9310847407b8440800000000000000
-      internalID: 4939164867794909671
+      spriteID: c959cfed1063538e0800000000000000
+      internalID: -1714404701480643172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_70
+      name: other_and_decorative_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 449
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0266fd34a436378d0800000000000000
+      internalID: -2849824968577948128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6783961c26d09a0800000000000000
+      internalID: -6265242923768973579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_38
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 432
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724717bd1c5432490800000000000000
+      internalID: -7772291832998693849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 372
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4693aa3962eda7cc0800000000000000
+      internalID: -3712410685546022556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_40
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 352
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4bb67859193cb80800000000000000
+      internalID: -8375690810570853169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 388
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6d6ece9a818390800000000000000
+      internalID: -7817815063465726114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 409
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c96230ef680840800000000000000
+      internalID: 5190521579253647563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_43
       rect:
         serializedVersion: 2
         x: 496
-        y: 98
+        y: 351
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e017c424858db0800000000000000
+      internalID: -4790277335145192025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891d016950cd7af0800000000000000
+      internalID: -396949702025864828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
         width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886beda206ec2dd70800000000000000
+      internalID: 9066535912281650824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db9c0e88efbaf70800000000000000
+      internalID: 9199726527674694963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa37979a65e74c680800000000000000
+      internalID: -8735718466516323414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 48
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1811,20 +1334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f47b38e0b46ae180800000000000000
-      internalID: -9085338587293321993
+      spriteID: 857ac4f421741e9b0800000000000000
+      internalID: -5052679162967578792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platform Set Yellow_71
+      name: other_and_decorative_49
       rect:
         serializedVersion: 2
-        x: 544
-        y: 98
+        x: 80
+        y: 288
         width: 32
-        height: 47
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1832,8 +1355,365 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bda46de14d4218060800000000000000
-      internalID: 6953879793105783515
+      spriteID: 21472d73de3d9e350800000000000000
+      internalID: 6046596990518850578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403fb080a274a660800000000000000
+      internalID: 7396162521729544258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 255
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344852af9819e280800000000000000
+      internalID: -9013646105302776775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 313
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf8878c8089349f0800000000000000
+      internalID: -485377171335376975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 292
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36523d67fc0ee59f0800000000000000
+      internalID: -477697328798292637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_54
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 256
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69be4e198763ced0800000000000000
+      internalID: -2394956738214315667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_55
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 276
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140d26a888ef22f0800000000000000
+      internalID: -995321319024425968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760fda962a7a6f380800000000000000
+      internalID: -8937772094470623129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_57
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434998734de142b60800000000000000
+      internalID: 7720329558033536052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_58
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 137
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba40189557c6cb330800000000000000
+      internalID: 3727973842824529067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 173
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9d80aefac5f520800000000000000
+      internalID: 2735315543661584064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 194
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6cc911a4209b60800000000000000
+      internalID: 7750735233045785369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_61
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 136
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3d0688c6de80e0800000000000000
+      internalID: -2265637405789963499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 40
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfea0869e7cc3fd0800000000000000
+      internalID: -2360792299362127941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 98
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b9b0b253a090d0800000000000000
+      internalID: -3418052541626600516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 77
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2736f77ef15da0800000000000000
+      internalID: -5957701040849081428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_65
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 41
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b963673ddeba90800000000000000
+      internalID: -7296151116332814185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other_and_decorative_66
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 61
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880b9088ae45e990800000000000000
+      internalID: -7357387930620721014
       vertices: []
       indices: 
       edges: []
