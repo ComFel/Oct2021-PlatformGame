@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class Coleccionable : MonoBehaviour
 {
-    void OnCollisionEnter(Collision obj)
+    HeroKnight heroKnight;
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        //Check to see if the tag on the collider is equal to Enemy
-        if (obj.collider.tag == "Player")
+        if(collision.tag == "Player")
         {
-            Debug.Log("Triggered by Enemy");
+            Debug.Log("+1star");
+
+            Destroy(this.gameObject);
         }
+
     }
 }

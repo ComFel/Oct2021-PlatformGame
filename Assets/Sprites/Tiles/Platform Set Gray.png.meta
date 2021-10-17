@@ -1,0 +1,1736 @@
+fileFormatVersion: 2
+guid: c47a265fbe1dbe04398e94b02f79707d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3023651437097423424
+    second: Platform Set Gray_0
+  - first:
+      213: 3820642406768998765
+    second: Platform Set Gray_1
+  - first:
+      213: 7187924156965364635
+    second: Platform Set Gray_2
+  - first:
+      213: 1036236012906863164
+    second: Platform Set Gray_3
+  - first:
+      213: 5160099642803133414
+    second: Platform Set Gray_4
+  - first:
+      213: 6763738503810930904
+    second: Platform Set Gray_5
+  - first:
+      213: -8705141259353454376
+    second: Platform Set Gray_6
+  - first:
+      213: 9127859558659334835
+    second: Platform Set Gray_7
+  - first:
+      213: 2044691750579248586
+    second: Platform Set Gray_8
+  - first:
+      213: 663763710682467157
+    second: Platform Set Gray_9
+  - first:
+      213: 5553297948830614783
+    second: Platform Set Gray_10
+  - first:
+      213: 8945688221993860722
+    second: Platform Set Gray_11
+  - first:
+      213: -8583976228328307066
+    second: Platform Set Gray_12
+  - first:
+      213: -6756249392225781886
+    second: Platform Set Gray_13
+  - first:
+      213: -6748383518463652512
+    second: Platform Set Gray_14
+  - first:
+      213: -4879209880527797342
+    second: Platform Set Gray_15
+  - first:
+      213: 6724954640633133527
+    second: Platform Set Gray_16
+  - first:
+      213: 2820318313926699276
+    second: Platform Set Gray_17
+  - first:
+      213: 3609738249659577580
+    second: Platform Set Gray_18
+  - first:
+      213: -2336015905213904867
+    second: Platform Set Gray_19
+  - first:
+      213: -1549906515996032797
+    second: Platform Set Gray_20
+  - first:
+      213: -5010938685203171746
+    second: Platform Set Gray_21
+  - first:
+      213: -7122923845011223613
+    second: Platform Set Gray_22
+  - first:
+      213: -5241744545944556070
+    second: Platform Set Gray_23
+  - first:
+      213: 2959209516807488688
+    second: Platform Set Gray_24
+  - first:
+      213: 53346540712334286
+    second: Platform Set Gray_25
+  - first:
+      213: -3905541750206348353
+    second: Platform Set Gray_26
+  - first:
+      213: -1210095829326176859
+    second: Platform Set Gray_27
+  - first:
+      213: -2272382948427734217
+    second: Platform Set Gray_28
+  - first:
+      213: 747218778585849186
+    second: Platform Set Gray_29
+  - first:
+      213: -7900588934951433458
+    second: Platform Set Gray_30
+  - first:
+      213: 6449490124034018652
+    second: Platform Set Gray_31
+  - first:
+      213: 451823558599660041
+    second: Platform Set Gray_32
+  - first:
+      213: 2300021438827830935
+    second: Platform Set Gray_33
+  - first:
+      213: -5757958327386932809
+    second: Platform Set Gray_34
+  - first:
+      213: 5258133963852100360
+    second: Platform Set Gray_35
+  - first:
+      213: 6211329103152590095
+    second: Platform Set Gray_36
+  - first:
+      213: 4077696492598945382
+    second: Platform Set Gray_37
+  - first:
+      213: 1791859963962445318
+    second: Platform Set Gray_38
+  - first:
+      213: 752380307178991988
+    second: Platform Set Gray_39
+  - first:
+      213: -6420955388676525997
+    second: Platform Set Gray_40
+  - first:
+      213: -7090937385083935494
+    second: Platform Set Gray_41
+  - first:
+      213: -3147297193882201649
+    second: Platform Set Gray_42
+  - first:
+      213: -580347036916846659
+    second: Platform Set Gray_43
+  - first:
+      213: -3086682475502138697
+    second: Platform Set Gray_44
+  - first:
+      213: -2149381059079584607
+    second: Platform Set Gray_45
+  - first:
+      213: 7126696573594170819
+    second: Platform Set Gray_46
+  - first:
+      213: 8903442483654163306
+    second: Platform Set Gray_47
+  - first:
+      213: 8693644210384804518
+    second: Platform Set Gray_48
+  - first:
+      213: 49167373505520382
+    second: Platform Set Gray_49
+  - first:
+      213: -2202134934964719599
+    second: Platform Set Gray_50
+  - first:
+      213: -2491055152794546224
+    second: Platform Set Gray_51
+  - first:
+      213: 1682067874151313149
+    second: Platform Set Gray_52
+  - first:
+      213: -3161509466496045620
+    second: Platform Set Gray_53
+  - first:
+      213: 8523018113236477517
+    second: Platform Set Gray_54
+  - first:
+      213: 1268867085515024251
+    second: Platform Set Gray_55
+  - first:
+      213: 9077104146218558511
+    second: Platform Set Gray_56
+  - first:
+      213: -7856987926438497976
+    second: Platform Set Gray_57
+  - first:
+      213: 3514046530153161967
+    second: Platform Set Gray_58
+  - first:
+      213: -3341143310579531407
+    second: Platform Set Gray_59
+  - first:
+      213: -1433414684469826339
+    second: Platform Set Gray_60
+  - first:
+      213: -1107684940249277863
+    second: Platform Set Gray_61
+  - first:
+      213: -5448081218950172373
+    second: Platform Set Gray_62
+  - first:
+      213: -1079225634630289214
+    second: Platform Set Gray_63
+  - first:
+      213: 7549265415831681044
+    second: Platform Set Gray_64
+  - first:
+      213: -3674254256117985310
+    second: Platform Set Gray_65
+  - first:
+      213: 8396528409181481264
+    second: Platform Set Gray_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platform Set Gray_0
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd6537b905d906d0800000000000000
+      internalID: -3023651437097423424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_1
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69724db606a50530800000000000000
+      internalID: 3820642406768998765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_2
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ae5000f2a0c360800000000000000
+      internalID: 7187924156965364635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad7ccd923716e00800000000000000
+      internalID: 1036236012906863164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_4
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb96e6294b5c9740800000000000000
+      internalID: 5160099642803133414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_5
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 480
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d858495550addd50800000000000000
+      internalID: 6763738503810930904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 416
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d804ac7520213780800000000000000
+      internalID: -8705141259353454376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22b8938ebacae70800000000000000
+      internalID: 9127859558659334835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 448
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd927c5054306c10800000000000000
+      internalID: 2044691750579248586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b060ef399263900800000000000000
+      internalID: 663763710682467157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 416
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff444f3df07411d40800000000000000
+      internalID: 5553297948830614783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef657aa08752c70800000000000000
+      internalID: 8945688221993860722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 464
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6860816a9179fd880800000000000000
+      internalID: -8583976228328307066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_13
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 464
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287fe6259fafc32a0800000000000000
+      internalID: -6756249392225781886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_14
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d8fd5c1fce852a0800000000000000
+      internalID: -6748383518463652512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_15
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 352
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3809ef670994cb0800000000000000
+      internalID: -4879209880527797342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_16
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 352
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d97d858d96d35d50800000000000000
+      internalID: 6724954640633133527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_17
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 416
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0921275098c32720800000000000000
+      internalID: 2820318313926699276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_18
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 432
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4791710dd581230800000000000000
+      internalID: 3609738249659577580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_19
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 432
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18001439edc49fd0800000000000000
+      internalID: -2336015905213904867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_20
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 432
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e04ef64c30ad7ae0800000000000000
+      internalID: -1549906515996032797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_21
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 416
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b33d90d1957ab0800000000000000
+      internalID: -5010938685203171746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 400
+        width: 176
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb42f7708a462d90800000000000000
+      internalID: -7122923845011223613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 288
+        width: 16
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add22af7b159147b0800000000000000
+      internalID: -5241744545944556070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 416
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b404418069311920800000000000000
+      internalID: 2959209516807488688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_25
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3972965668db000800000000000000
+      internalID: 53346540712334286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_26
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 256
+        width: 32
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34e7b787abcc9c0800000000000000
+      internalID: -3905541750206348353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_27
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5add4dc2140e43fe0800000000000000
+      internalID: -1210095829326176859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_28
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 416
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7336f4d7fbfd670e0800000000000000
+      internalID: -2272382948427734217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_29
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 288
+        width: 16
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d5c1b2587ae5a00800000000000000
+      internalID: 747218778585849186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 368
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b86d709387b5290800000000000000
+      internalID: -7900588934951433458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d0071d811318950800000000000000
+      internalID: 6449490124034018652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9025c77f123354600800000000000000
+      internalID: 451823558599660041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_33
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 368
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e9d1500515bef10800000000000000
+      internalID: 2300021438827830935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_34
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 352
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97990886f9710b0800000000000000
+      internalID: -5757958327386932809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_35
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80332d83bf4a8f840800000000000000
+      internalID: 5258133963852100360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_36
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 352
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da47809e2133650800000000000000
+      internalID: 6211329103152590095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_37
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 352
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666673ffa53e69830800000000000000
+      internalID: 4077696492598945382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec93fb427fdd810800000000000000
+      internalID: 1791859963962445318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_39
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 288
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471376137edf07a00800000000000000
+      internalID: 752380307178991988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_40
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 288
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503e4bf71f24e6a0800000000000000
+      internalID: -6420955388676525997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 224
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4e885840ee79d90800000000000000
+      internalID: -7090937385083935494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 304
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1511490ed8254d0800000000000000
+      internalID: -3147297193882201649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_43
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfee1ad17132f7f0800000000000000
+      internalID: -580347036916846659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_44
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba854974a6e925d0800000000000000
+      internalID: -3086682475502138697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 304
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4cb9e805ddb22e0800000000000000
+      internalID: -2149381059079584607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_46
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 224
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5f21b56cc17e260800000000000000
+      internalID: 7126696573594170819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_47
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 320
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bf35434c16f8b70800000000000000
+      internalID: 8903442483654163306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_48
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 256
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa1e93395706a870800000000000000
+      internalID: 8693644210384804518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_49
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 320
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2e558377daea000800000000000000
+      internalID: 49167373505520382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 256
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11033fda1f17071e0800000000000000
+      internalID: -2202134934964719599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_51
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 256
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df46c5698efd6dd0800000000000000
+      internalID: -2491055152794546224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_52
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 176
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfea2eec1d7e75710800000000000000
+      internalID: 1682067874151313149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_53
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 288
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccde77ff3ef0024d0800000000000000
+      internalID: -3161509466496045620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 224
+        width: 176
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d462ead21d7d74670800000000000000
+      internalID: 8523018113236477517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_55
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77ee4b34ebeb9110800000000000000
+      internalID: 1268867085515024251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_56
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 232
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f242590e02a58fd70800000000000000
+      internalID: 9077104146218558511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_57
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b918eb1f56f290800000000000000
+      internalID: -7856987926438497976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 176
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe429f173b664c030800000000000000
+      internalID: 3514046530153161967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 176
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1710c357cdfd1a1d0800000000000000
+      internalID: -3341143310579531407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddce85460fc7b1ce0800000000000000
+      internalID: -1433414684469826339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 176
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a54656a66b0a0f0800000000000000
+      internalID: -1107684940249277863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 176
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b217ffc1ff68464b0800000000000000
+      internalID: -5448081218950172373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_63
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 176
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8bd57d002d501f0800000000000000
+      internalID: -1079225634630289214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_64
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418f9c1e5e064c860800000000000000
+      internalID: 7549265415831681044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_65
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 176
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efce99983d620dc0800000000000000
+      internalID: -3674254256117985310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Set Gray_66
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 176
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ecb7f916768470800000000000000
+      internalID: 8396528409181481264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

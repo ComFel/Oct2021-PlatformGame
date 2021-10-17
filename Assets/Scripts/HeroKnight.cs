@@ -8,6 +8,7 @@ public class HeroKnight : MonoBehaviour {
     [SerializeField] float      m_rollForce = 6.0f;
     [SerializeField] bool       m_noBlood = false;
     [SerializeField] GameObject m_slideDust;
+    public int        M_Stars = 0;
 
     private Animator            m_animator;
     private Rigidbody2D         m_body2d;
@@ -22,7 +23,6 @@ public class HeroKnight : MonoBehaviour {
     private int                 m_currentAttack = 0;
     private float               m_timeSinceAttack = 0.0f;
     private float               m_delayToIdle = 0.0f;
-
 
     // Use this for initialization
     void Start ()
