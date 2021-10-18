@@ -518,7 +518,7 @@ GameObject:
   - component: {fileID: 157091254}
   m_Layer: 0
   m_Name: Platform Set Gray_37 (3)
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1532,7 +1532,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 282a18835b1bdb44689b1a25662207e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemySpeed: 10
+  enemyIsGoingRight: 0
+  mRaycastingDistance: 1
+  enemySpeed: 1
 --- !u!1 &353202530
 GameObject:
   m_ObjectHideFlags: 0
@@ -2091,7 +2093,7 @@ GameObject:
   - component: {fileID: 406691239}
   m_Layer: 0
   m_Name: Platform Set Gray_37
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
