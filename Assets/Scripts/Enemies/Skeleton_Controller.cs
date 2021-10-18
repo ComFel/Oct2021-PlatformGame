@@ -69,6 +69,7 @@ public class Skeleton_Controller : MonoBehaviour
     }
 
     /*
+     * Reference code from internet, for explanation follow the link below
      * https://www.noveltech.dev/simple-patrolling-monster-unity/
      */
     private void CheckForWalls()
@@ -88,11 +89,18 @@ public class Skeleton_Controller : MonoBehaviour
                 myEnemySprite.flipX = enemyIsGoingRight;
 
             }
+            if (hit.transform.tag == "Player")
+            {
+                enemyState = State.Attack;
+                Debug.Log("PLAYER FOUND");
+            }
         }
     }
 
     void Attacking()
     {
-
+        myEnemyAnimator.SetBool("PlayerOnSight", true);
+        //ToDo-> Check to flip srpite
+        //ToDo-> Damage and Health
     }
 }
