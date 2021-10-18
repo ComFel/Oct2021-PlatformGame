@@ -1402,6 +1402,7 @@ GameObject:
   - component: {fileID: 337762230}
   - component: {fileID: 337762229}
   - component: {fileID: 337762232}
+  - component: {fileID: 337762233}
   m_Layer: 0
   m_Name: Skeleton
   m_TagString: Untagged
@@ -1469,7 +1470,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 4723107735738678597, guid: 1018b0ba13578bf459bd254ae1a2be99,
     type: 3}
-  m_Color: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 1}
+  m_Color: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1506,7 +1507,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.081803024, y: -0.0055816174}
+  m_Offset: {x: 0.08180308, y: -0.009166658}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1517,8 +1518,21 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.41506708, y: 0.51720977}
+  m_Size: {x: 0.32902575, y: 0.5100397}
   m_EdgeRadius: 0
+--- !u!114 &337762233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 337762228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282a18835b1bdb44689b1a25662207e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemySpeed: 10
 --- !u!1 &353202530
 GameObject:
   m_ObjectHideFlags: 0
