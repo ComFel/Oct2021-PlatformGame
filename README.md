@@ -1,4 +1,4 @@
-# Jam-Oct2021MadridCrea3
+# Base game to practice Unity & C#
 #
 # Autors & Copyright © 2021+
 # 
